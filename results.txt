@@ -1,0 +1,6 @@
+Even Numbers:
+2, 4, 6
+
+
+Squared Odd Numbers:
+1, 9, 25, 49

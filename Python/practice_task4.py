@@ -18,3 +18,7 @@ def process_numbers(numbers, output_file="results.txt"):
         file.write("\n".join(output_lines))
 
     print(f"Results saved to {output_file}")
+
+
+numbers= [1, 2, 3, 4, 5, 6, 7]
+process_numbers(numbers)
